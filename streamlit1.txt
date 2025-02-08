@@ -1,0 +1,13 @@
+streamlit
+hashlib
+sqlite3
+google-generativeai
+pandas
+matplotlib
+easyocr
+random
+datetime
+webbrowser
+uuid
+csv
+dataclasses
